@@ -8,7 +8,7 @@ import org.springframework.web.client.RestTemplate;
 public class RestAPIProgram1 {
 
 	public RestAPIProgram1() {
-		System.out.println("------------------------------------------RestAPIProgram1");
+		System.out.println("------------------------------------------RestAPIProgram1--------------------");
 		
 		final String uri = "http://localhost:8080/topics";
 	     
